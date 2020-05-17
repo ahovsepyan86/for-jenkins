@@ -1,2 +1,2 @@
 echo "Barev"
-cat /etc/hostname
+echo "hajox"
